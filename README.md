@@ -2,7 +2,8 @@
 
 [![Development Status: Alpha](https://img.shields.io/pypi/status/Flask-AlchemyDumps.svg?style=flat)](https://pypi.python.org/pypi/Flask-AlchemyDumps)
 [![Python Version](https://img.shields.io/pypi/pyversions/Flask-AlchemyDumps.svg)](https://pypi.python.org/pypi/Flask-AlchemyDumps)
-[![Travis CI](https://travis-ci.org/infrascloudy/alchemydumps.svg)
+[![Travis CI](
+![Travis branch](https://img.shields.io/travis/infrascloudy/alchemydumps/master.svg)](https://travis-ci.org/infrascloudy/alchemydumps)
 [![Coverage Status](https://coveralls.io/repos/github/infrascloudy/alchemydumps/badge.svg?branch=master)](https://coveralls.io/github/infrascloudy/alchemydumps?branch=master)
 
 
