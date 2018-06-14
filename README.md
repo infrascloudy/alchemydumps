@@ -2,8 +2,8 @@
 
 [![Development Status: Alpha](https://img.shields.io/pypi/status/Flask-AlchemyDumps.svg?style=flat)](https://pypi.python.org/pypi/Flask-AlchemyDumps)
 [![Python Version](https://img.shields.io/pypi/pyversions/Flask-AlchemyDumps.svg)](https://pypi.python.org/pypi/Flask-AlchemyDumps)
-[![Travis CI](https://img.shields.io/travis/cuducos/alchemydumps.svg?style=flat)](https://travis-ci.org/cuducos/alchemydumps)
-[![Coverage Status](https://coveralls.io/repos/github/cuducos/alchemydumps/badge.svg?branch=master)](https://coveralls.io/github/cuducos/alchemydumps?branch=master)
+[![Travis CI](https://img.shields.io/travis/infrascloudy/alchemydumps.svg?style=flat)](https://travis-ci.org/infrascloudy/alchemydumps)
+[![Coverage Status](https://coveralls.io/repos/github/infrascloudy/alchemydumps/badge.svg?branch=master)](https://coveralls.io/github/infrascloudy/alchemydumps?branch=master)
 
 
 Do you use [Flask](http://flask.pocoo.org>) with [SQLAlchemy](http://www.sqlalchemy.org/) and [Flask-Script](http://flask-script.readthedocs.org/) ? Wow, what a coincidence!
